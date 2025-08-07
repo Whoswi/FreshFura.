@@ -96,7 +96,6 @@ const Service = () => {
 
                     <ServiceItem>
                         Profesjonalne pranie tapicerki materiałowej – 250zł - 450zł
-                        <PopularTag>Najczęściej wybierane</PopularTag>
                     </ServiceItem>
 
                     <ServiceItem>
@@ -105,6 +104,7 @@ const Service = () => {
 
                     <ServiceItem>
                         Pełny pakiet detailingowy wnętrza – 300zł - 700zł
+                        <PopularTag>Najczęściej wybierane</PopularTag>
                     </ServiceItem>
 
                     <Note>*Cena zależy od stopnia zabrudzenia i rodzaju pojazdu.</Note>
